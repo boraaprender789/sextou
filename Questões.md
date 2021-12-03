@@ -30,3 +30,9 @@
 
 ## Faça o merge da branch “Respostas” para a branch “main”
 
+
+
+
+
+
+*Foi muito bom estar aqui, espero que eu tenha contribuído de alguma forma para o seu crescimento, até outro dia!*
