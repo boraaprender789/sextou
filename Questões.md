@@ -28,4 +28,5 @@
 
 # 10 - O que é um VCS?
 
+## Faça o merge da branch “Respostas” para a branch “main”
 
